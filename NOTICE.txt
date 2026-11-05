@@ -1,0 +1,63 @@
+Beats - notices and attributions
+================================
+
+THE PUBLISHED SHELF - Groove MIDI Dataset
+
+Some drum patterns in this app (the "published" section of
+the drummer's book) are adapted from the Groove MIDI
+Dataset:
+
+  Groove MIDI Dataset (groove-v1.0.0)
+  (c) Google LLC
+  https://magenta.tensorflow.org/datasets/groove
+
+Licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0):
+  https://creativecommons.org/licenses/by/4.0/
+
+Adaptation note: the source performances (human drummers
+recorded on a Roland TD-11 kit) were sliced to short
+pattern windows, their onsets quantized to a 16th-note
+grid, their velocities rescaled to this app's range, and
+their drum limbs remapped to this app's kit voices. The
+dataset's own license text and index are kept with the
+project's source data.
+
+THE MALLET BANK - CC0 (Beats 1.17, THE HEART)
+
+Since 1.17, while the Mallets app stands installed on
+the phone, the Toy Cabinet's Mallets tab borrows that
+room's six instruments as pitched extras. The sounds
+are the family's own shelf: the same 44 anchor
+recordings that ship inside the Mallets app are bundled
+inside this app as assets (single recorded hits, one
+file per bar - no performed lines), credited exactly
+as the Mallets app credits them:
+
+  Xylophone (9 anchors, MIDI notes 48-96)
+  FreePats Xylophone (medium mallets)
+  Creative Commons CC0 1.0 - public domain dedication
+  https://freepats.zenvoid.org
+
+  Vibraphone (11 anchors, MIDI 41-76),
+  Glockenspiel (7 anchors, MIDI 67-96),
+  Tubular Bells (9 anchors, MIDI 48-64),
+  Woodblock (2 anchors, MIDI 76 and 81),
+  Balafon (6 anchors, MIDI 49-77)
+  Versilian Community Sample Library (VCSL),
+  Versilian Studios LLC
+  Creative Commons CC0 1.0 - public domain dedication
+  ("no rules, no royalties, no limits")
+  https://versilian-studios.com/vsco-community/
+
+CC0 permits use, adaptation and commercial use without
+attribution. This app credits the sources anyway, as a
+matter of house practice: real recordings have makers.
+
+The full CC0 text: https://creativecommons.org/publicdomain/zero/1.0/
+
+EVERYTHING ELSE
+
+Sheet No. 1 ("Walter's Groove") and the house patterns
+are original to this app. The app collects nothing, sends
+nothing, and contains no advertising or tracking.
